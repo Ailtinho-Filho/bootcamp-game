@@ -4,7 +4,7 @@
 
 🎮[DIO BOOTCAMP GAME DEVELOPER](https://web.dio.me/home)
 
-## ✔ Carga Horaria
+## 🕕 Carga Horaria
 
 |horas|
 |-----|
